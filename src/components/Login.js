@@ -57,7 +57,7 @@ export default function Login() {
           <br/>
           <img id="linkedin_logo" alt='linkedin img' src="/static/img/linkedin_logo.png" onclick="window.open('https://www.linkedin.com/in/mannanpacha1988')" style={{height:"20px",cursor:"pointer"}}/>
           <div style={{textAlign:"right"}}>
-             <img src={quote1} alt='quote1' style={{width:"40px", marginRight:"40px"}}/>
+             <img src={quote1} alt='quote1' style={{width:"40px", marginRight:"40px"}}/> 
           </div>
        </div>
     </div>
